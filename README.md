@@ -29,7 +29,7 @@
 ## Componentes
 
 ### Componente 1 - Registrador Flip-Flop do tipo D e do tipo JK. 
-> **Descrição:**:
+> **Descrição:** Os Flip-Flops tipo D e JK são circuitos sequenciais usados para armazenar bits. O Flip-Flop D captura o valor presente na entrada D na borda ativa do clock, armazenando-o até a próxima borda, sendo ideal para registradores e sincronização. Já o Flip-Flop JK é mais versátil, eliminando estados inválidos do tipo SR; suas entradas J e K permitem configurar, resetar ou alternar o estado, sendo útil em contadores e divisores de frequência. Ambos são essenciais em circuitos digitais para armazenamento e controle de dados.
 #### Registrador Flip-flop tipo D:
 
 #### Registrador Flip-flop tipo JK:

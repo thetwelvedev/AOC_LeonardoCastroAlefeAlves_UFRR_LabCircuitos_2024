@@ -14,13 +14,15 @@
   - [Relatório](#relatório)
   - [Componentes](#componentes)
     - [Componente 1 - Registrador Flip-Flop do tipo D e do tipo JK.](#componente-1---registrador-flip-flop-do-tipo-d-e-do-tipo-jk)
+      - [Registrador Flip-flop tipo D:](#registrador-flip-flop-tipo-d)
+      - [Registrador Flip-flop tipo JK:](#registrador-flip-flop-tipo-jk)
   - [Referências](#referências)
 
 ---
 ## Relatório
-> Breve descricão
+> Teve como finalidade a documentação do processo de construção dos 17 componentes, informando como foi realizada a construção, disponibilizando as imagens dos circuitos e seus componentes para melhor entendendimento, e a realização de teste para confirmar o funcionamento.
 
-[Link clicável]()
+[Acesse o relatório]()<!--Colocar o endereço do relatório por pasta exeemplo: ./docs/relatório.pdf-->
 
 ---
 
@@ -28,8 +30,12 @@
 
 ### Componente 1 - Registrador Flip-Flop do tipo D e do tipo JK. 
 > **Descrição:**:
+#### Registrador Flip-flop tipo D:
+
+#### Registrador Flip-flop tipo JK:
+
 - [Arquivo do Circuito](./Componente%201/)
-- [Imagens]()<!--URL DA PASTA NO GITHUB-->
+- [Imagens]()<!--URL DA PASTA NO GITHUB, CASO QUEIRA ABRIR A PASTA COM TODOS OS ARQUIVOS E NÃO SOMENTE UM ARQUIVO ESPECÍFICO-->
 <!-- Fazer para cada circuito-->
 
 ---

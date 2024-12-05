@@ -2,7 +2,7 @@
 
 ---
 
-**Integrantes:** [Leonardo Castro](https://github.com/thetwelvedev) e 
+**Integrantes:** [Leonardo Castro](https://github.com/thetwelvedev) e [Álefe Alves](https://github.com/AlefeAlvesC)
 
 **Descrição:** Essa a atividade tem como finalidade a construção de 17 componentes, onde sua construção total é feita com apenas o uso de pinos de entrada, pino des saída, portas OR, portas AND, portas NOT, Clock, Contante e Distribuidor. Onde tem como objeto o entendendimento de componentes da arquitetura de um computador. Cada componente está em uma pasta onde tem sua descrição, imagens, testes e arquivo gerado pelo **Logisim**.
 
@@ -41,6 +41,6 @@
 ---
 
 ## Referências
-1. Link para vídeos YouTube: 
+<!--1. Link para vídeos YouTube: 
 2. Documentação: 
-3. Site: 
+3. Site:-->

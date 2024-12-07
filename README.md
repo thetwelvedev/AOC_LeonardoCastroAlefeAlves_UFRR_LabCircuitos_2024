@@ -15,6 +15,7 @@
   - [Componentes](#componentes)
     - [Componente 1 - Registrador Flip-Flop do tipo D e do tipo JK.](#componente-1---registrador-flip-flop-do-tipo-d-e-do-tipo-jk)
       - [Registrador Flip-flop tipo D:](#registrador-flip-flop-tipo-d)
+      - [Registrador Flip-flop tipo D com PRESET e CLEAR:](#registrador-flip-flop-tipo-d-com-preset-e-clear)
       - [Registrador Flip-flop tipo JK:](#registrador-flip-flop-tipo-jk)
   - [Referências](#referências)
 
@@ -31,12 +32,16 @@
 ### Componente 1 - Registrador Flip-Flop do tipo D e do tipo JK. 
 > **Descrição:** Os Flip-Flops tipo D e JK são circuitos sequenciais usados para armazenar bits. O Flip-Flop D captura o valor presente na entrada D na borda ativa do clock, armazenando-o até a próxima borda, sendo ideal para registradores e sincronização. Já o Flip-Flop JK é mais versátil, eliminando estados inválidos do tipo SR; suas entradas J e K permitem configurar, resetar ou alternar o estado, sendo útil em contadores e divisores de frequência. Ambos são essenciais em circuitos digitais para armazenamento e controle de dados.
 #### Registrador Flip-flop tipo D:
+![Imagem Flip-Flop D](./Componente%201/Imagens/flip-flop-d.png)
+
+#### Registrador Flip-flop tipo D com PRESET e CLEAR:
+![Imagem Flip-Flop D](./Componente%201/Imagens/flip-flop-d-preset-clear.png)
 
 #### Registrador Flip-flop tipo JK:
+![Imagem Flip-Flop D](./Componente%201/Imagens/flip-flop-jk.png)
 
-- [Arquivo do Circuito](./Componente%201/)
-- [Imagens]()<!--URL DA PASTA NO GITHUB, CASO QUEIRA ABRIR A PASTA COM TODOS OS ARQUIVOS E NÃO SOMENTE UM ARQUIVO ESPECÍFICO-->
-<!-- Fazer para cada circuito-->
+- [Arquivo do Circuito](./Componente%201/1-FLIP_FLOP_D_E_JK.circ)
+- [Imagens](https://github.com/thetwelvedev/AOC_LeonardoCastroAlefeAlves_UFRR_LabCircuitos_2024/tree/main/Componente%201/Imagens)
 
 ---
 

@@ -45,7 +45,7 @@
 - [Imagens](https://github.com/thetwelvedev/AOC_LeonardoCastroAlefeAlves_UFRR_LabCircuitos_2024/tree/main/Componente%201/Imagens)
 
 ### Componente 2 - Multiplexador de 4 entradas. 
-> **Descrição:** O multiplexador é um dispositivo digital que seleciona uma entre várias linhas de entrada e a direciona para uma única linha de saída. Ele é controlado por sinais chamados de linhas de seleção. No caso do multiplexador de 4 entradas, ele seleciona uma entre as 4 entradas e tem 2 linhas de seleção, a quantidade de linhas de seleção é dada pela fórmula 〖m= log〗_2⁡〖(n)〗, onde n é número de entradas.
+> **Descrição:** O multiplexador é um dispositivo digital que seleciona uma entre várias linhas de entrada e a direciona para uma única linha de saída. Ele é controlado por sinais chamados de linhas de seleção. No caso do multiplexador de 4 entradas, ele seleciona uma entre as 4 entradas e tem 2 linhas de seleção, a quantidade de linhas de seleção é dada pela fórmula m= log2⁡(n), onde n é número de entradas.
 
 ![Multiplexador 4 entradas](./Componente%202/Imagens/mux-4-1.png)
 

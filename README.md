@@ -20,6 +20,7 @@
     - [Componente 2 - Multiplexador de 4 entradas.](#componente-2---multiplexador-de-4-entradas)
     - [Componente 3 - Porta lógica XOR.](#componente-3---porta-lógica-xor)
     - [Componente 4 - Somador de 8 bits mais 4.](#componente-4---somador-de-8-bits-mais-4)
+    - [Componente 8 - Somador de 8 bits.](#componente-8---somador-de-8-bits)
   - [Referências](#referências)
 
 ---
@@ -69,6 +70,14 @@
 
 - [Arquivo do Circuito](./Componente%204/4-SOMADOR_8_BITS_MAIS_4.circ)
 - [Imagens](https://github.com/thetwelvedev/AOC_LeonardoCastroAlefeAlves_UFRR_LabCircuitos_2024/tree/main/Componente%204/Imagens)
+
+### Componente 8 - Somador de 8 bits. 
+> **Descrição:** Um somador de 8 bits é um circuito digital que realiza a soma de dois números binários de 8 bits (A e B) e, opcionalmente, considera um bit de transporte de entrada (Cin), gerando como resultado número binário de 8 bits representado pela saída SOMA e em caso de “estouro” de bits vai 1 para o Cout ocorrendo um overflow. A soma ocorre por conta dos 8 somadores de bit em paralelo e as suas entradas recebem os bits correspondentes a suas posições, como pode ser visto na imagem a abaixo.
+
+![Somador de 8 bits](./Componente%208/Imagens/somador-8bits.png)
+
+- [Arquivo do Circuito](./Componente%208/8-SOMADOR_8_BITS.circ)
+- [Imagens](https://github.com/thetwelvedev/AOC_LeonardoCastroAlefeAlves_UFRR_LabCircuitos_2024/tree/main/Componente%208/Imagens)
 ---
 
 ## Referências

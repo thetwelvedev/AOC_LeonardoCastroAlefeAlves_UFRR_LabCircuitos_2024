@@ -19,6 +19,7 @@
       - [Registrador Flip-flop tipo JK:](#registrador-flip-flop-tipo-jk)
     - [Componente 2 - Multiplexador de 4 entradas.](#componente-2---multiplexador-de-4-entradas)
     - [Componente 3 - Porta lógica XOR.](#componente-3---porta-lógica-xor)
+    - [Componente 4 - Somador de 8 bits mais 4.](#componente-4---somador-de-8-bits-mais-4)
   - [Referências](#referências)
 
 ---
@@ -61,6 +62,13 @@
 - [Arquivo do Circuito](./Componente%203/3-XOR.circ)
 - [Imagens](https://github.com/thetwelvedev/AOC_LeonardoCastroAlefeAlves_UFRR_LabCircuitos_2024/tree/main/Componente%203/Imagens)
 
+### Componente 4 - Somador de 8 bits mais 4. 
+> **Descrição:** Um somador de 8 bits é um circuito digital que realiza a soma de dois números binários de 8 bits (A e B) e, opcionalmente, considera um bit de transporte de entrada (Cin), gerando como resultado número binário de 8 bits representado pela saída S e em caso de “estouro” de bits vai 1 para o Cout ocorrendo um overflow. Mas nesse caso o valor de B é contante sendo sempre 4, assim os 8 somadores de bit em paralelo recebem 0 menos o terceiro pois ele fica na posição que resulta no valor 4, como pode ser visto na imagem a abaixo.
+
+![Somador de 8 bits mais 4](./Componente%204/Imagens/somador-8-bits-mais-4.png)
+
+- [Arquivo do Circuito](./Componente%204/4-SOMADOR_8_BITS_MAIS_4.circ)
+- [Imagens](https://github.com/thetwelvedev/AOC_LeonardoCastroAlefeAlves_UFRR_LabCircuitos_2024/tree/main/Componente%204/Imagens)
 ---
 
 ## Referências

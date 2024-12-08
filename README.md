@@ -21,6 +21,7 @@
     - [Componente 3 - Porta lógica XOR.](#componente-3---porta-lógica-xor)
     - [Componente 4 - Somador de 8 bits mais 4.](#componente-4---somador-de-8-bits-mais-4)
     - [Componente 8 - Somador de 8 bits.](#componente-8---somador-de-8-bits)
+    - [Componente 11 - Extensor de 4 bits para 8 bits.](#componente-11---extensor-de-4-bits-para-8-bits)
   - [Referências](#referências)
 
 ---
@@ -78,6 +79,15 @@
 
 - [Arquivo do Circuito](./Componente%208/8-SOMADOR_8_BITS.circ)
 - [Imagens](https://github.com/thetwelvedev/AOC_LeonardoCastroAlefeAlves_UFRR_LabCircuitos_2024/tree/main/Componente%208/Imagens)
+
+### Componente 11 - Extensor de 4 bits para 8 bits. 
+> **Descrição:** Um extensor de sinal é um circuito digital utilizado para ampliar o número de bits de um valor binário, mantendo a precisão do número em termos de sinal (positivo ou negativo). O extensor de sinal de 4 bits para 8 bits é um circuito que transforma um número de 4 bits em um número de 8 bits, replicando o bit mais significativo (o bit de sinal) para os 4 bits mais significativos da saída, garantindo que o número continue com o mesmo valor.
+
+![Extensor de 4 bits para 8 bits](./Componente%2011/Imagens/extensor-4-to-8.png)
+
+- [Arquivo do Circuito](./Componente%2011/11-EXTENSOR_4_PARA_8_BITS.circ)
+- [Imagens](https://github.com/thetwelvedev/AOC_LeonardoCastroAlefeAlves_UFRR_LabCircuitos_2024/tree/main/Componente%2011/Imagens)
+
 ---
 
 ## Referências

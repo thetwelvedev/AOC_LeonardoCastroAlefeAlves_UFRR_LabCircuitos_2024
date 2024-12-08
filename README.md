@@ -18,6 +18,7 @@
       - [Registrador Flip-flop tipo D com PRESET e CLEAR:](#registrador-flip-flop-tipo-d-com-preset-e-clear)
       - [Registrador Flip-flop tipo JK:](#registrador-flip-flop-tipo-jk)
     - [Componente 2 - Multiplexador de 4 entradas.](#componente-2---multiplexador-de-4-entradas)
+    - [Componente 3 - Porta lógica XOR.](#componente-3---porta-lógica-xor)
   - [Referências](#referências)
 
 ---
@@ -51,6 +52,15 @@
 
 - [Arquivo do Circuito](./Componente%202/2-MUX_4_X_1.circ)
 - [Imagens](https://github.com/thetwelvedev/AOC_LeonardoCastroAlefeAlves_UFRR_LabCircuitos_2024/tree/main/Componente%202/Imagens)
+
+### Componente 3 - Porta lógica XOR. 
+> **Descrição:** A porta lógica XOR é uma porta digital que realiza a operação lógica de disjunção exclusiva. Ela tem a propriedade de retornar um valor 1 apenas quando suas entradas são diferentes, e 0 quando as entradas são iguais.
+
+![Porta lógica XOR](./Componente%203/Imagens/xor.png)
+
+- [Arquivo do Circuito](./Componente%203/3-XOR.circ)
+- [Imagens](https://github.com/thetwelvedev/AOC_LeonardoCastroAlefeAlves_UFRR_LabCircuitos_2024/tree/main/Componente%203/Imagens)
+
 ---
 
 ## Referências

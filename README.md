@@ -25,6 +25,7 @@
     - [Componente 15 - Extensor de 4 bits para 8 bits.](#componente-15---extensor-de-4-bits-para-8-bits)
       - [Circuito sem otimização:](#circuito-sem-otimização)
       - [Circuito otimizado com Mapa de Karnaugh:](#circuito-otimizado-com-mapa-de-karnaugh)
+    - [Componente 16 - Decodificador de 7 Segmentos.](#componente-16---decodificador-de-7-segmentos)
     - [Componente 17 - Detector de Número Primo de 4 entradas com Mapa de Karnaugh.](#componente-17---detector-de-número-primo-de-4-entradas-com-mapa-de-karnaugh)
   - [Referências](#referências)
 
@@ -102,6 +103,13 @@
 
 - [Arquivo do Circuito](./Componente%2015/15-CIRCUITO_OTIMIZADO_COM_MAPA_DE_KARNAUGH.circ)
 - [Imagens](https://github.com/thetwelvedev/AOC_LeonardoCastroAlefeAlves_UFRR_LabCircuitos_2024/tree/main/Componente%2015/Imagens)
+
+### Componente 16 - Decodificador de 7 Segmentos. 
+> **Descrição:** O decodificador de 7 segmentos de 4 entradas é um dispositivo eletrônico utilizado para converter um número binário em sinais que acionam um display de 7 segmentos, representando visualmente números em formato hexadecimal (0-9 e A-F). O display é composto por sete LEDs dispostos de forma a formar os números de 0 a 9 e as letras A à F, com cada segmento do display sendo controlado por um sinal individual, tendo suas posições representadas por letras (a, b, c, d, e, f e g).
+
+![Decodificador de 7 Segmentos](./Componente%2016/Imagens/decodificador-de-7-segmentos-caso1.png)
+- [Arquivo do Circuito](./Componente%2016/16-DECODIFICADOR_DE_7_SEGMENTOS_FORM_HEX.circ)
+- [Imagens](https://github.com/thetwelvedev/AOC_LeonardoCastroAlefeAlves_UFRR_LabCircuitos_2024/tree/main/Componente%2016/Imagens)
 
 ### Componente 17 - Detector de Número Primo de 4 entradas com Mapa de Karnaugh. 
 > **Descrição:** Um Detector de Número Primo de 4 entradas utilizando mapa de Karnaugh é um circuito lógico que identifica se um número de 4 bits (representado pelas entradas (A, B, C, D) é primo. Números primos são aqueles que possuem exatamente dois divisores 1 e ele mesmo. Onde nesse intervalo os números primos são 2, 3, 5, 7, 11 e 13. Quando há uma entrada em binário de um desses números primos a saída S = 1, caso contrário S = 0.

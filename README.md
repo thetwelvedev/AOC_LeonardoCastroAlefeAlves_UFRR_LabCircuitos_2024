@@ -25,6 +25,7 @@
     - [Componente 15 - Extensor de 4 bits para 8 bits.](#componente-15---extensor-de-4-bits-para-8-bits)
       - [Circuito sem otimização:](#circuito-sem-otimização)
       - [Circuito otimizado com Mapa de Karnaugh:](#circuito-otimizado-com-mapa-de-karnaugh)
+    - [Componente 17 - Detector de Número Primo de 4 entradas com Mapa de Karnaugh.](#componente-17---detector-de-número-primo-de-4-entradas-com-mapa-de-karnaugh)
   - [Referências](#referências)
 
 ---
@@ -101,6 +102,13 @@
 
 - [Arquivo do Circuito](./Componente%2015/15-CIRCUITO_OTIMIZADO_COM_MAPA_DE_KARNAUGH.circ)
 - [Imagens](https://github.com/thetwelvedev/AOC_LeonardoCastroAlefeAlves_UFRR_LabCircuitos_2024/tree/main/Componente%2015/Imagens)
+
+### Componente 17 - Detector de Número Primo de 4 entradas com Mapa de Karnaugh. 
+> **Descrição:** Um Detector de Número Primo de 4 entradas utilizando mapa de Karnaugh é um circuito lógico que identifica se um número de 4 bits (representado pelas entradas (A, B, C, D) é primo. Números primos são aqueles que possuem exatamente dois divisores 1 e ele mesmo. Onde nesse intervalo os números primos são 2, 3, 5, 7, 11 e 13. Quando há uma entrada em binário de um desses números primos a saída S = 1, caso contrário S = 0.
+
+![Detector de Número Primo](./Componente%2017/Imagens/detector-de-numero-primo.png)
+- [Arquivo do Circuito](./Componente%2017/17-DETECTOR_NUMERO_PRIMO_COM_MAPA_DE_KARNAUGH.circ)
+- [Imagens](https://github.com/thetwelvedev/AOC_LeonardoCastroAlefeAlves_UFRR_LabCircuitos_2024/tree/main/Componente%2017/Imagens)
 
 ---
 

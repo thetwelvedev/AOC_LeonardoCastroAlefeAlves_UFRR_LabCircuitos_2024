@@ -20,7 +20,12 @@
     - [Componente 2 - Multiplexador de 4 entradas.](#componente-2---multiplexador-de-4-entradas)
     - [Componente 3 - Porta lógica XOR.](#componente-3---porta-lógica-xor)
     - [Componente 4 - Somador de 8 bits mais 4.](#componente-4---somador-de-8-bits-mais-4)
+    - [Componente 5 - Memória ROM de 8 bits.](#componente-5---memória-rom-de-8-bits)
+    - [Componente 6 - Memória RAM de 8 bits.](#componente-6---memória-ram-de-8-bits)
+    - [Componente 7 - Banco de Registradores de 8 bits.](#componente-7---banco-de-registradores-de-8-bits)
     - [Componente 8 - Somador de 8 bits.](#componente-8---somador-de-8-bits)
+    - [Componente 9 - Detector de Sequência Binária 101.](#componente-9---detector-de-sequência-binária-101)
+    - [Componente 10 - Unidade Lógica Aritmética de 8 Bits.](#componente-10---unidade-lógica-aritmética-de-8-bits)
     - [Componente 11 - Extensor de 4 bits para 8 bits.](#componente-11---extensor-de-4-bits-para-8-bits)
     - [Componente 15 - Extensor de 4 bits para 8 bits.](#componente-15---extensor-de-4-bits-para-8-bits)
       - [Circuito sem otimização:](#circuito-sem-otimização)
@@ -77,6 +82,30 @@
 - [Arquivo do Circuito](./Componente%204/4-SOMADOR_8_BITS_MAIS_4.circ)
 - [Imagens](https://github.com/thetwelvedev/AOC_LeonardoCastroAlefeAlves_UFRR_LabCircuitos_2024/tree/main/Componente%204/Imagens)
 
+### Componente 5 - Memória ROM de 8 bits. 
+> **Descrição:** A memória apenas de leitura, mais conhecida como memória ROM, é uma memória normalmente projetada para fazer leitura de dados permanentes ou que raramente são alterados. Outras características desta que podem ser citadas são que esta é uma memória semicondutora e não-volátil. 
+
+![Memória ROM de 8 bits](./)
+
+- [Arquivo do Circuito](./)
+- [Imagens]()
+
+### Componente 6 - Memória RAM de 8 bits. 
+> **Descrição:** Memória RAM é um termo empregado para se referir às memórias cujo tempo de acesso em qualquer endereço da memória é igual. Existem diversos tipos de memórias que podem receber esta alcunha, um exemplo é a própria memória ROM apresentada no componente anterior. Quando se trata de RAM em memórias semicondutoras, normalmente se refere às memórias do tipo RWM (Read-Write-Memory) que são aquelas em que é possível realizar as operações de leitura e escrita de dados. 
+
+![Memória RAM de 8 bits](./)
+
+- [Arquivo do Circuito](./)
+- [Imagens]()
+
+### Componente 7 - Banco de Registradores de 8 bits. 
+> **Descrição:** O banco de registradores é um componente digital essencial no funcionamento de um processador, responsável por armazenar temporariamente as informações que estão sendo processadas em um dado momento. Ele consiste em um conjunto organizado de registradores, permitindo a execução de operações de leitura e de escrita sendo otimizado para acesso extremamente rápido às informações diretamente utilizadas pelo processador.
+
+![Banco de Registradores de 8 bits](./)
+
+- [Arquivo do Circuito](./)
+- [Imagens]()
+
 ### Componente 8 - Somador de 8 bits. 
 > **Descrição:** Um somador de 8 bits é um circuito digital que realiza a soma de dois números binários de 8 bits (A e B) e, opcionalmente, considera um bit de transporte de entrada (Cin), gerando como resultado número binário de 8 bits representado pela saída SOMA e em caso de “estouro” de bits vai 1 para o Cout ocorrendo um overflow. A soma ocorre por conta dos 8 somadores de bit em paralelo e as suas entradas recebem os bits correspondentes a suas posições, como pode ser visto na imagem a abaixo.
 
@@ -84,6 +113,22 @@
 
 - [Arquivo do Circuito](./Componente%208/8-SOMADOR_8_BITS.circ)
 - [Imagens](https://github.com/thetwelvedev/AOC_LeonardoCastroAlefeAlves_UFRR_LabCircuitos_2024/tree/main/Componente%208/Imagens)
+
+### Componente 9 - Detector de Sequência Binária 101. 
+> **Descrição:** Um detector de sequência binária é um circuito capaz de detectar uma sequência de sinais de entrada em um conjunto de dados binários. Ou seja, é um circuito capaz de determinar se um conjunto de bits recebidos correspondem a uma sequência pré-estabelecida. Esse tipo de circuito é amplamente usando em sistemas de comunicação, processamento de dados e processamento de sinais digitais.
+
+![Detector de Sequência Binária 101](./)
+
+- [Arquivo do Circuito](./)
+- [Imagens]()
+
+### Componente 10 - Unidade Lógica Aritmética de 8 Bits. 
+> **Descrição:** Uma Unidade Lógica e Aritmética (ULA) é um componente fundamental em sistemas digitais, responsável por realizar operações lógicas e aritméticas sobre números representados em circuitos lógicos. Geralmente, uma ULA recebe dois operandos como entradas e possui uma entrada de controle adicional, que especifica qual operação deve ser executada. Essas operações podem incluir somas, subtrações, multiplicações, divisões, além de operações lógicas como AND, OR, XOR, entre outras. A ULA desempenha um papel crucial no processamento de dados, sendo utilizada em processadores, controladores e outros dispositivos eletrônicos.
+
+![Unidade Lógica Aritmética de 8 Bits](./)
+
+- [Arquivo do Circuito](./)
+- [Imagens]()
 
 ### Componente 11 - Extensor de 4 bits para 8 bits. 
 > **Descrição:** Um extensor de sinal é um circuito digital utilizado para ampliar o número de bits de um valor binário, mantendo a precisão do número em termos de sinal (positivo ou negativo). O extensor de sinal de 4 bits para 8 bits é um circuito que transforma um número de 4 bits em um número de 8 bits, replicando o bit mais significativo (o bit de sinal) para os 4 bits mais significativos da saída, garantindo que o número continue com o mesmo valor.

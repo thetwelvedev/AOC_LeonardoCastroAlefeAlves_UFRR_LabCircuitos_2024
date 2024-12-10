@@ -125,10 +125,10 @@
 ### Componente 10 - Unidade Lógica Aritmética de 8 Bits. 
 > **Descrição:** Uma Unidade Lógica e Aritmética (ULA) é um componente fundamental em sistemas digitais, responsável por realizar operações lógicas e aritméticas sobre números representados em circuitos lógicos. Geralmente, uma ULA recebe dois operandos como entradas e possui uma entrada de controle adicional, que especifica qual operação deve ser executada. Essas operações podem incluir somas, subtrações, multiplicações, divisões, além de operações lógicas como AND, OR, XOR, entre outras. A ULA desempenha um papel crucial no processamento de dados, sendo utilizada em processadores, controladores e outros dispositivos eletrônicos.
 
-![Unidade Lógica Aritmética de 8 Bits](./)
+![Unidade Lógica Aritmética de 8 Bits](./Componente%2010/Imagens/unidade-logica-aritmetica.png)
 
-- [Arquivo do Circuito](./)
-- [Imagens]()
+- [Arquivo do Circuito](./Componente%2010/10-UNIDADE_LOGICA_ARITMETICA.circ)
+- [Imagens](https://github.com/thetwelvedev/AOC_LeonardoCastroAlefeAlves_UFRR_LabCircuitos_2024/tree/main/Componente%2010/Imagens)
 
 ### Componente 11 - Extensor de 4 bits para 8 bits. 
 > **Descrição:** Um extensor de sinal é um circuito digital utilizado para ampliar o número de bits de um valor binário, mantendo a precisão do número em termos de sinal (positivo ou negativo). O extensor de sinal de 4 bits para 8 bits é um circuito que transforma um número de 4 bits em um número de 8 bits, replicando o bit mais significativo (o bit de sinal) para os 4 bits mais significativos da saída, garantindo que o número continue com o mesmo valor.

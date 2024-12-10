@@ -143,10 +143,10 @@
 > **Descrição:** O termo máquina de estados refere-se a um circuito digital que passa por uma sequência de estados predeterminados, controlados por um sinal de clock e outros sinais de entrada. Em outras palavras, uma máquina de estados é projetada para mudar seu comportamento ou estado com base em condições específicas, sendo frequentemente utilizada em sistemas de controle, processamento de sinais e circuitos lógicos sequenciais. A máquina de estados implementada descreve o seguinte problema:
 Dada uma entrada X e uma saída Y, quando X passar de 0 para 1, Y deves ser igual a 1 por 5 pulsos de clock e então retorne a 0, mesmo que X ainda seja igual 1.  
 
-![Máquina de Estados](./)
+![Máquina de Estados](./Componente%2012/Imagens/maquina-de-estados.png)
 
-- [Arquivo do Circuito](./)
-- [Imagens]()
+- [Arquivo do Circuito](./Componente%2012/12-MAQUINA_DE_ESTADOS.circ)
+- [Imagens](https://github.com/thetwelvedev/AOC_LeonardoCastroAlefeAlves_UFRR_LabCircuitos_2024/tree/main/Componente%2012/Imagens)
 
 ### Componente 15 - Extensor de 4 bits para 8 bits. 
 > **Descrição:** Um extensor de sinal é um circuito digital utilizado para ampliar o número de bits de um valor binário, mantendo a precisão do número em termos de sinal (positivo ou negativo). O extensor de sinal de 4 bits para 8 bits é um circuito que transforma um número de 4 bits em um número de 8 bits, replicando o bit mais significativo (o bit de sinal) para os 4 bits mais significativos da saída, garantindo que o número continue com o mesmo valor.

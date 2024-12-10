@@ -27,6 +27,7 @@
     - [Componente 9 - Detector de Sequência Binária 101.](#componente-9---detector-de-sequência-binária-101)
     - [Componente 10 - Unidade Lógica Aritmética de 8 Bits.](#componente-10---unidade-lógica-aritmética-de-8-bits)
     - [Componente 11 - Extensor de 4 bits para 8 bits.](#componente-11---extensor-de-4-bits-para-8-bits)
+    - [Componente 12 - Máquina de Estados.](#componente-12---máquina-de-estados)
     - [Componente 15 - Extensor de 4 bits para 8 bits.](#componente-15---extensor-de-4-bits-para-8-bits)
       - [Circuito sem otimização:](#circuito-sem-otimização)
       - [Circuito otimizado com Mapa de Karnaugh:](#circuito-otimizado-com-mapa-de-karnaugh)
@@ -137,6 +138,15 @@
 
 - [Arquivo do Circuito](./Componente%2011/11-EXTENSOR_4_PARA_8_BITS.circ)
 - [Imagens](https://github.com/thetwelvedev/AOC_LeonardoCastroAlefeAlves_UFRR_LabCircuitos_2024/tree/main/Componente%2011/Imagens)
+
+### Componente 12 - Máquina de Estados. 
+> **Descrição:** O termo máquina de estados refere-se a um circuito digital que passa por uma sequência de estados predeterminados, controlados por um sinal de clock e outros sinais de entrada. Em outras palavras, uma máquina de estados é projetada para mudar seu comportamento ou estado com base em condições específicas, sendo frequentemente utilizada em sistemas de controle, processamento de sinais e circuitos lógicos sequenciais. A máquina de estados implementada descreve o seguinte problema:
+Dada uma entrada X e uma saída Y, quando X passar de 0 para 1, Y deves ser igual a 1 por 5 pulsos de clock e então retorne a 0, mesmo que X ainda seja igual 1.  
+
+![Máquina de Estados](./)
+
+- [Arquivo do Circuito](./)
+- [Imagens]()
 
 ### Componente 15 - Extensor de 4 bits para 8 bits. 
 > **Descrição:** Um extensor de sinal é um circuito digital utilizado para ampliar o número de bits de um valor binário, mantendo a precisão do número em termos de sinal (positivo ou negativo). O extensor de sinal de 4 bits para 8 bits é um circuito que transforma um número de 4 bits em um número de 8 bits, replicando o bit mais significativo (o bit de sinal) para os 4 bits mais significativos da saída, garantindo que o número continue com o mesmo valor.

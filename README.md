@@ -93,10 +93,10 @@
 ### Componente 6 - Memória RAM de 8 bits. 
 > **Descrição:** Memória RAM é um termo empregado para se referir às memórias cujo tempo de acesso em qualquer endereço da memória é igual. Existem diversos tipos de memórias que podem receber esta alcunha, um exemplo é a própria memória ROM apresentada no componente anterior. Quando se trata de RAM em memórias semicondutoras, normalmente se refere às memórias do tipo RWM (Read-Write-Memory) que são aquelas em que é possível realizar as operações de leitura e escrita de dados. 
 
-![Memória RAM de 8 bits](./)
+![Memória RAM de 8 bits](./Componente%206/Imagens/mem-ram.png)
 
-- [Arquivo do Circuito](./)
-- [Imagens]()
+- [Arquivo do Circuito](./Componente%206/6-MEM_RAM_8X8.circ)
+- [Imagens](https://github.com/thetwelvedev/AOC_LeonardoCastroAlefeAlves_UFRR_LabCircuitos_2024/tree/main/Componente%206/Imagens)
 
 ### Componente 7 - Banco de Registradores de 8 bits. 
 > **Descrição:** O banco de registradores é um componente digital essencial no funcionamento de um processador, responsável por armazenar temporariamente as informações que estão sendo processadas em um dado momento. Ele consiste em um conjunto organizado de registradores, permitindo a execução de operações de leitura e de escrita sendo otimizado para acesso extremamente rápido às informações diretamente utilizadas pelo processador.

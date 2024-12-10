@@ -166,6 +166,7 @@
 ---
 
 ## Referências
-<!--1. Link para vídeos YouTube: 
-2. Documentação: 
-3. Site:-->
+
+MAPA DE KARNAUGH. Disponível em: http://www.32x8.com/index.html. Acesso em: 9 dez. 2024.
+STALLINGS, William; BOSNIC, Ivan; VIEIRA, Daniel. Arquitetura e organização de computadores. 8. ed. São Paulo: Prentice Hall, 2006.
+PATTERSON, David A. Organização e projeto de computadores. 3. ed. Rio de Janeiro: Elsevier, 2005.

@@ -85,10 +85,10 @@
 ### Componente 5 - Memória ROM de 8 bits. 
 > **Descrição:** A memória apenas de leitura, mais conhecida como memória ROM, é uma memória normalmente projetada para fazer leitura de dados permanentes ou que raramente são alterados. Outras características desta que podem ser citadas são que esta é uma memória semicondutora e não-volátil. 
 
-![Memória ROM de 8 bits](./)
+![Memória ROM de 8 bits](./Componente%205/Imagens/mem-rom.png)
 
-- [Arquivo do Circuito](./)
-- [Imagens]()
+- [Arquivo do Circuito](./Componente%205/5-MEM_ROM_8X8.circ)
+- [Imagens](https://github.com/thetwelvedev/AOC_LeonardoCastroAlefeAlves_UFRR_LabCircuitos_2024/tree/main/Componente%205/Imagens)
 
 ### Componente 6 - Memória RAM de 8 bits. 
 > **Descrição:** Memória RAM é um termo empregado para se referir às memórias cujo tempo de acesso em qualquer endereço da memória é igual. Existem diversos tipos de memórias que podem receber esta alcunha, um exemplo é a própria memória ROM apresentada no componente anterior. Quando se trata de RAM em memórias semicondutoras, normalmente se refere às memórias do tipo RWM (Read-Write-Memory) que são aquelas em que é possível realizar as operações de leitura e escrita de dados. 

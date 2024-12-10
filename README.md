@@ -101,10 +101,10 @@
 ### Componente 7 - Banco de Registradores de 8 bits. 
 > **Descrição:** O banco de registradores é um componente digital essencial no funcionamento de um processador, responsável por armazenar temporariamente as informações que estão sendo processadas em um dado momento. Ele consiste em um conjunto organizado de registradores, permitindo a execução de operações de leitura e de escrita sendo otimizado para acesso extremamente rápido às informações diretamente utilizadas pelo processador.
 
-![Banco de Registradores de 8 bits](./)
+![Banco de Registradores de 8 bits](./Componente%207/Imagens/banco-registradores.png)
 
-- [Arquivo do Circuito](./)
-- [Imagens]()
+- [Arquivo do Circuito](./Componente%207/7-BANCO_DE_REGISTRADORES_8BITS.circ)
+- [Imagens](https://github.com/thetwelvedev/AOC_LeonardoCastroAlefeAlves_UFRR_LabCircuitos_2024/tree/main/Componente%207/Imagens)
 
 ### Componente 8 - Somador de 8 bits. 
 > **Descrição:** Um somador de 8 bits é um circuito digital que realiza a soma de dois números binários de 8 bits (A e B) e, opcionalmente, considera um bit de transporte de entrada (Cin), gerando como resultado número binário de 8 bits representado pela saída SOMA e em caso de “estouro” de bits vai 1 para o Cout ocorrendo um overflow. A soma ocorre por conta dos 8 somadores de bit em paralelo e as suas entradas recebem os bits correspondentes a suas posições, como pode ser visto na imagem a abaixo.

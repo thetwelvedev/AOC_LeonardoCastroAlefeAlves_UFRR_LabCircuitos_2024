@@ -117,10 +117,10 @@
 ### Componente 9 - Detector de Sequência Binária 101. 
 > **Descrição:** Um detector de sequência binária é um circuito capaz de detectar uma sequência de sinais de entrada em um conjunto de dados binários. Ou seja, é um circuito capaz de determinar se um conjunto de bits recebidos correspondem a uma sequência pré-estabelecida. Esse tipo de circuito é amplamente usando em sistemas de comunicação, processamento de dados e processamento de sinais digitais.
 
-![Detector de Sequência Binária 101](./)
+![Detector de Sequência Binária 101](./Componente%209/Imagens/detector-sequencia-101.png)
 
-- [Arquivo do Circuito](./)
-- [Imagens]()
+- [Arquivo do Circuito](./Componente%209/9-DETECTOR_SEQUENCIA_101.circ)
+- [Imagens](https://github.com/thetwelvedev/AOC_LeonardoCastroAlefeAlves_UFRR_LabCircuitos_2024/tree/main/Componente%209/Imagens)
 
 ### Componente 10 - Unidade Lógica Aritmética de 8 Bits. 
 > **Descrição:** Uma Unidade Lógica e Aritmética (ULA) é um componente fundamental em sistemas digitais, responsável por realizar operações lógicas e aritméticas sobre números representados em circuitos lógicos. Geralmente, uma ULA recebe dois operandos como entradas e possui uma entrada de controle adicional, que especifica qual operação deve ser executada. Essas operações podem incluir somas, subtrações, multiplicações, divisões, além de operações lógicas como AND, OR, XOR, entre outras. A ULA desempenha um papel crucial no processamento de dados, sendo utilizada em processadores, controladores e outros dispositivos eletrônicos.

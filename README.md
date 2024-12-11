@@ -28,6 +28,7 @@
     - [Componente 10 - Unidade Lógica Aritmética de 8 Bits.](#componente-10---unidade-lógica-aritmética-de-8-bits)
     - [Componente 11 - Extensor de 4 bits para 8 bits.](#componente-11---extensor-de-4-bits-para-8-bits)
     - [Componente 12 - Máquina de Estados.](#componente-12---máquina-de-estados)
+    - [Componente 13 - Contador Síncrono.](#componente-13---contador-síncrono)
     - [Componente 15 - Extensor de 4 bits para 8 bits.](#componente-15---extensor-de-4-bits-para-8-bits)
       - [Circuito sem otimização:](#circuito-sem-otimização)
       - [Circuito otimizado com Mapa de Karnaugh:](#circuito-otimizado-com-mapa-de-karnaugh)
@@ -147,6 +148,14 @@ Dada uma entrada X e uma saída Y, quando X passar de 0 para 1, Y deves ser igua
 
 - [Arquivo do Circuito](./Componente%2012/12-MAQUINA_DE_ESTADOS.circ)
 - [Imagens](https://github.com/thetwelvedev/AOC_LeonardoCastroAlefeAlves_UFRR_LabCircuitos_2024/tree/main/Componente%2012/Imagens)
+
+### Componente 13 - Contador Síncrono. 
+> **Descrição:** Um contador síncrono é um circuito digital composto por flip-flops conectados em paralelo, de forma que todas as entradas de clock estejam ligadas à mesma fonte. Esses contadores são circuitos sequenciais capazes de realizar contagens binárias de maneira controlada, pois contam com um circuito combinacional externo. Esse circuito utiliza como entradas as saídas Q e Q′ de cada flip-flop, e suas saídas são conectadas às entradas dos flip-flops utilizados, permitindo a contagem síncrona. 
+
+![Contador Síncrono Década](./Componente%2013/Imagens/contador-sincrono.png)
+
+- [Arquivo do Circuito](./Componente%2013/13-CONTADOR_SINCRONO.circ)
+- [Imagens](https://github.com/thetwelvedev/AOC_LeonardoCastroAlefeAlves_UFRR_LabCircuitos_2024/tree/main/Componente%2013/Imagens)
 
 ### Componente 15 - Extensor de 4 bits para 8 bits. 
 > **Descrição:** Um extensor de sinal é um circuito digital utilizado para ampliar o número de bits de um valor binário, mantendo a precisão do número em termos de sinal (positivo ou negativo). O extensor de sinal de 4 bits para 8 bits é um circuito que transforma um número de 4 bits em um número de 8 bits, replicando o bit mais significativo (o bit de sinal) para os 4 bits mais significativos da saída, garantindo que o número continue com o mesmo valor.

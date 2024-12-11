@@ -29,6 +29,7 @@
     - [Componente 11 - Extensor de 4 bits para 8 bits.](#componente-11---extensor-de-4-bits-para-8-bits)
     - [Componente 12 - Máquina de Estados.](#componente-12---máquina-de-estados)
     - [Componente 13 - Contador Síncrono.](#componente-13---contador-síncrono)
+    - [Componente 14 - Detector de Paridade Ímpar.](#componente-14---detector-de-paridade-ímpar)
     - [Componente 15 - Extensor de 4 bits para 8 bits.](#componente-15---extensor-de-4-bits-para-8-bits)
       - [Circuito sem otimização:](#circuito-sem-otimização)
       - [Circuito otimizado com Mapa de Karnaugh:](#circuito-otimizado-com-mapa-de-karnaugh)
@@ -156,6 +157,14 @@ Dada uma entrada X e uma saída Y, quando X passar de 0 para 1, Y deves ser igua
 
 - [Arquivo do Circuito](./Componente%2013/13-CONTADOR_SINCRONO.circ)
 - [Imagens](https://github.com/thetwelvedev/AOC_LeonardoCastroAlefeAlves_UFRR_LabCircuitos_2024/tree/main/Componente%2013/Imagens)
+
+### Componente 14 - Detector de Paridade Ímpar. 
+> **Descrição:** Um circuito detector de paridade ímpar é um circuito digital utilizado para verificar se a quantidade de bits com valor 1 em um conjunto de dados binários é ímpar. Ele funciona aplicando a operação lógica XOR entre os bits de entrada, pois a operação XOR resulta em 1 quando a quantidade de entradas iguais a 1 é ímpar. 
+
+![Detector de Paridade Ímpar](./Componente%2014/Imagens/detector-paridade-impar-8-inputs.png)
+
+- [Arquivo do Circuito](./Componente%2014/14-DETECTOR_PARIDADE_IMPAR.circ)
+- [Imagens](https://github.com/thetwelvedev/AOC_LeonardoCastroAlefeAlves_UFRR_LabCircuitos_2024/tree/main/Componente%2014/Imagens)
 
 ### Componente 15 - Extensor de 4 bits para 8 bits. 
 > **Descrição:** Um extensor de sinal é um circuito digital utilizado para ampliar o número de bits de um valor binário, mantendo a precisão do número em termos de sinal (positivo ou negativo). O extensor de sinal de 4 bits para 8 bits é um circuito que transforma um número de 4 bits em um número de 8 bits, replicando o bit mais significativo (o bit de sinal) para os 4 bits mais significativos da saída, garantindo que o número continue com o mesmo valor.

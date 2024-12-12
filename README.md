@@ -41,7 +41,8 @@
 ## Relatório
 > Teve como finalidade a documentação do processo de construção dos 17 componentes, informando como foi realizada a construção, disponibilizando as imagens dos circuitos e seus componentes para melhor entendendimento, e a realização de teste para confirmar o funcionamento.
 
-[Acesse o relatório](./Relatório técnico AOC.pdf)
+* Para uma vizualização mais detalhada do relatório: 
+[Acesse o relatório](./Relatório%20técnico%20AOC.pdf)
 
 ---
 
